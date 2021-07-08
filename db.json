@@ -1,11 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "error": false,
+    "success": true,
+    "policy_id": "mot-az-1167966219",
+    "drivers_license": "333222111"
 }
